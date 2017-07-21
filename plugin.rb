@@ -10,7 +10,6 @@ enabled_site_setting :youtrack_topic
 
 gem 'multi_xml', '0.6.0'
 gem 'httparty', '0.15.5'
-gem 'multipart-post', '2.0'
 gem 'youtrack', '~> 0.0.11'
 
 register_asset "javascripts/topic_route_cont.js"
