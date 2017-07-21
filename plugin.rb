@@ -9,6 +9,7 @@ enabled_site_setting :youtrack_project
 enabled_site_setting :youtrack_topic
 
 gem 'httparty'
+gem 'multipart-post'
 gem 'youtrack'
 
 register_asset "javascripts/topic_route_cont.js"
