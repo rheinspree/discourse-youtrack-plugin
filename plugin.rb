@@ -8,9 +8,9 @@ enabled_site_setting :youtrack_password
 enabled_site_setting :youtrack_project
 enabled_site_setting :youtrack_topic
 
-gem 'httparty'
-gem 'multipart-post'
-gem 'youtrack'
+gem 'httparty', '~> 0.15.5'
+gem 'multipart-post', '~> 2.0'
+gem 'youtrack', '~> 0.0.11'
 
 register_asset "javascripts/topic_route_cont.js"
 register_asset "javascripts/youtrack_button.js"
