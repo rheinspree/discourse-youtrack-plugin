@@ -8,8 +8,6 @@ enabled_site_setting :youtrack_password
 enabled_site_setting :youtrack_project
 enabled_site_setting :youtrack_topic
 
-gem 'faraday_middleware', '0.9.1'
-gem 'inflection', '1.0.0'
 gem 'youtrack', '0.0.11'
 
 register_asset "javascripts/topic_route_cont.js"
