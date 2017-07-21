@@ -8,7 +8,8 @@ enabled_site_setting :youtrack_password
 enabled_site_setting :youtrack_project
 enabled_site_setting :youtrack_topic
 
-gem 'youtrack', '0.0.11'
+gem 'httparty'
+gem 'youtrack'
 
 register_asset "javascripts/topic_route_cont.js"
 register_asset "javascripts/youtrack_button.js"
