@@ -1,0 +1,7 @@
+en:
+  site_settings:
+    youtrack_uri: "youtrack_uri"
+    youtrack_user: "youtrack_user"
+    youtrack_password: "youtrack_password"
+    youtrack_project: "youtrack_project"
+    youtrack_topic: "youtrack_topic"

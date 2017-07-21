@@ -1,0 +1,16 @@
+plugins:
+  youtrack_uri:
+    default: ""
+    client: true
+  youtrack_user:
+    default: ""
+    client: true
+  youtrack_password:
+    default: ""
+    client: true
+  youtrack_project:
+    default: ""
+    client: true
+  youtrack_topic:
+    default: ""
+    client: true
